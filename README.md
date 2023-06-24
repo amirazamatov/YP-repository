@@ -1,6 +1,15 @@
-# YP-repository
+# Yandex Practicum
+
+<a href="https://praktikum.yandex.ru/"><img width=100% src="https://miro.medium.com/max/1400/0*uVP0WwEWOtpHs40E.png"></a><br><br>
+<p align=center>
 
 Репозиторий для проектов, созданных в ходе изучения Data Sciense и машинного обучения на платформе Яндекс Практикум.   
+
+<br>
+  <a href="https://github.com/amirazamatov/Yandex_Practicum/yandex_ds_certificate_en.pdf"><b>Certificate of completion the course (English version)</b> :mortar_board: </a><br>
+    <a href="https://github.com/amirazamatov/Yandex_Practicum/yandex_ds_certificate_ru.pdf"><b>Certificate of completion the course (Russian version)</b> :mortar_board: </a>
+</p><br>
+
 
 ### [1. Исследование объявлений о продаже квартир](/EDA_estate_sale)
 

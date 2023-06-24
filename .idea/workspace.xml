@@ -1,17 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0739c858-a411-42ca-9e65-8ed84aa1ed4c" name="Changes" comment="" />
+    <list default="true" id="0739c858-a411-42ca-9e65-8ed84aa1ed4c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/car_price/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/car_price/car_price.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/car_price/car_price.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/car_price/car_price_model.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/car_price/car_price_with_output.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codding_personal_info/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/codding_personal_info/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codding_personal_info/codding_personal_info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codding_personal_info/codding_personal_info.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/codding_personal_info/codding_personal_info.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer_churn/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer_churn/customer_churn.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer_churn/customer_churn.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer_churn/customer_churn_with_output.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv_buyer's_age/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv_buyer's_age/cv_buyer's_age.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv_buyer's_age/cv_buyer's_age.ipynb" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2F2kKXjAjOHLVrWo6kzHdKVA6Sg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
