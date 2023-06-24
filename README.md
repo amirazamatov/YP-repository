@@ -7,8 +7,8 @@
 
 
 <br>
-  <a href="https://github.com/amirazamatov/Yandex_Practicum/yandex_ds_certificate_en.pdf"><b>Certificate of completion the course (English version)</b> :mortar_board: </a><br>
-    <a href="https://github.com/amirazamatov/Yandex_Practicum/yandex_ds_certificate_ru.pdf"><b>Certificate of completion the course (Russian version)</b> :mortar_board: </a>
+  <a href="https://github.com/amirazamatov/Yandex_Practicum/blob/master/yandex_ds_certificate_en.pdf"><b>Certificate of completion the course (English version)</b> :mortar_board: </a><br>
+    <a href="https://github.com/amirazamatov/Yandex_Practicum/blob/master/yandex_ds_certificate_ru.pdf"><b>Certificate of completion the course (Russian version)</b> :mortar_board: </a>
 </p><br>
 
 
